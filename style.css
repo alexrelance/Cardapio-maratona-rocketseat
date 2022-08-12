@@ -14,7 +14,7 @@ ul {
 }
 
 /* fonts */
-h1, h2, h3 {
+h1, h2, h3, .price {
     font-family: 'Roboto Serif', serif;
     text-transform: uppercase;
     color: #2d2c2a;
