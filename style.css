@@ -18,6 +18,7 @@ h1, h2, h3, .price {
     font-family: 'Roboto Serif', serif;
     text-transform: uppercase;
     color: #2d2c2a;
+    position: fixed;
 }
 
 /* HEADER */
@@ -82,14 +83,3 @@ li .details {
     font-size: 14px;
     line-height: 21px;
 }
-
-.price {
-    position: fixed;
-    right: 46.8;
-}
-
-@media(max-width: 574px) {
-    .price {
-        position: fixed;
-        right: 2.8rem;
-    }}
